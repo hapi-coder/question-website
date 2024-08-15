@@ -1,0 +1,95 @@
+.fishing {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.travelling {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.listeningtomusic {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.programming {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.math {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.reading {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 400px;
+    margin: 0px;
+    top: 130px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.nextbutton {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 20px;
+    margin: 0px;
+    top: 20px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.hobbytitle {
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+body {
+    background-color: black;
+}
+.hobbytextchange {
+    color: white;
+}

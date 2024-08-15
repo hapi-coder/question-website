@@ -1,0 +1,44 @@
+.askfoodddrink {
+    text-align: center;
+    height: 50px;
+    right: 0px;
+    position: relative;
+    font-size: 50px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body {
+    background-color: black;
+}
+.askdrink {
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    color: #ffffff;
+}
+.typeurdrink {
+    display: flex;
+    position: relative;
+    left: 500px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.drinkadmitting {
+    display: flex;
+    position: relative;
+    left: 700px;
+    border-top: 20px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.nextweeb {
+    position: relative;
+    left: 500px;
+    border-top: 0px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

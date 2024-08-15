@@ -1,0 +1,52 @@
+.favfilmtitle {
+    text-align: center;
+    height: 50px;
+    right: 0px;
+    margin: 0px;
+    position: relative;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.filmoutputstyle {
+    text-align: center;
+    height: 50px;
+    right: 0px;
+    margin: 0px;
+    position: relative;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.typeurfilm {
+    display: flex;
+    position: relative;
+    left: 500px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body {
+    background-color: black;
+}
+.enterfilm {
+    display: flex;
+    position: relative;
+    left: 700px;
+    border-top: 20px;
+    background: linear-gradient(85deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.colorwebsite {
+    position: relative;
+    align-items: center;
+    height: 50px;
+    left: 20px;
+    margin: 0px;
+    top: 20px;
+    font-size: large;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

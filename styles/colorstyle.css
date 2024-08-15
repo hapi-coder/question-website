@@ -1,0 +1,51 @@
+.Red {
+    align-items: center;
+    color: red;
+    background-color: black;
+}
+.Orange {
+    align-items: center;
+    color: orange;
+    background-color: black;
+}
+.Yellow {
+    align-items: center;
+    color: yellow;
+    background-color: black;
+}
+.Blue {
+    align-items: center;
+    color: blue;
+    background-color: black;
+}
+.Green {
+    align-items: center;
+    color: green;
+    background-color: black;
+}
+.DarkGreen {
+    align-items: center;
+    color: darkgreen;
+    background-color: black;
+}
+.Purple {
+    align-items: center;
+    color: purple;
+    background-color: black;
+}
+.Pink {
+    align-items: center;
+    color: pink;
+    background-color: black;
+}
+.Othercolor {
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.favcolortitle {
+    color: white;
+}
+body {
+    background-color: black;
+}
